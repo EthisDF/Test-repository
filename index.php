@@ -1,1 +1,4 @@
-<?php echo "Hello world !"; ?>
+<?php 
+$var = "Hello world !";
+echo $var; 
+?>
